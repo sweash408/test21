@@ -1,0 +1,15 @@
+
+{
+    "prefix": "s.",
+    "logsChannel": "logs",
+    "reportsChannel": "reports",
+    "serverlog": "server",
+    "owners": [
+      "436740713867247626"
+  ],
+  
+    "activity": {
+      "streaming": true,
+      "game": "for @phoenix help. | One Piece"
+    }
+  }
